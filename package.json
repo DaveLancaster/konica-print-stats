@@ -1,0 +1,13 @@
+{
+  "name": "printCount",
+  "description": "A simple SNMP print page counter",
+  "author": "Dave Lancaster <lancaster.dave@gmail.com>",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "cli-table": "*",
+    "snmp-native": "*",
+    "smtp-connection": "*",
+    "yargs": "*"
+  }
+}
